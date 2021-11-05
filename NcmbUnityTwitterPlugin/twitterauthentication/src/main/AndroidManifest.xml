@@ -1,2 +1,4 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nifcloud.mbaas.twitterauthentication" />
+    package="com.nifcloud.mbaas.twitterauthentication">
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

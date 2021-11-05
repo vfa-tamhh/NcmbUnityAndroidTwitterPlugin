@@ -42,7 +42,7 @@ task clearAar(type: Delete) {
 task makeAar(type: Copy) {
     from('build/outputs/aar/')
     into('release/')
-    include('twitterauthentication-release.')
+    include('twitterauthentication-release.aar')
     rename('twitterauthentication-release.aar', AAR_TWITTER_NAME)
 }
 makeAar.dependsOn(clearAar, 'assembleRelease')
