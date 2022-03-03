@@ -1,4 +1,4 @@
-# NcmbUnityTwitterPlugin
+# NcmbUnityAndroidTwitterPlugin
 
 ## Overview
 NcmbUnityTwitterPlugin is a plugin which support Unity's android signin with Twitter.
