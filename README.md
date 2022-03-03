@@ -17,17 +17,6 @@ This plugin using [twitter4j](https://twitter4j.org/en/index.html) library to ca
 3. After build successfully, a file `twitterauthentication.aar` will be appeared at `NcmbUnityTwitterPlugin/NcmbUnityTwitterPlugin/twitterauthentication/release/twitterauthentication.aar`
 <img src="images/img_0003.png" width = "640" />
 
-### Plugin installation
-
-1. Create new project by Unity.
-2. Import NCMB libs. See the [NCMB Unity Quick Start](https://mbaas.nifcloud.com/doc/current/introduction/quickstart_unity.html) for more details.
-3. Copy some file as below:
-  - Copy file: `NcmbUnityTwitterPlugin/NCMB/Script/NCMBOAuthTwitter.cs` into `<Your Project Folder>/Assets/NCMB/Script/NCMBOAuthTwitter.cs`
-  <img src="images/img_0004.png" width = "640" />
-
-  - Copy file  `twitterauthentication.aar` into `<Your Project Folder>/Assets/Plugins/Android/twitterauthentication.aar`
-  <img src="images/img_0005.png" width = "640" />
-
 ## Usage
 
 ```C#
